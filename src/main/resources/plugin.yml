@@ -1,0 +1,15 @@
+name: TRC-F3-GamemodeSwitcher
+description: $description
+version: '${version}'
+
+main: de.trc.trcf3gamemodeswitcher.TRCF3GamemodeSwitcher
+api-version: '26.1.2'
+load: POSTWORLD
+
+authors: [ TRC ]
+website: linktr.ee/theredcraft0803
+
+permissions:
+  f3gamemode.use:
+    description: Allows the player to use the 'F3 + F4' and 'F3 + N' shortcuts.
+    default: false
