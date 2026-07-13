@@ -10,6 +10,6 @@ authors: [ TRC ]
 website: linktr.ee/theredcraft0803
 
 permissions:
-  f3gamemode.use:
+  trc_f3_gamemode_switcher.switch:
     description: Allows the player to use the 'F3 + F4' and 'F3 + N' shortcuts.
     default: false
